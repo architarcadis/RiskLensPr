@@ -1,0 +1,10 @@
+<svg width="200" height="50" viewBox="0 0 300 50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Orange wave symbol - Arcadis logo -->
+    <path d="M30 10 C40 5, 45 15, 35 17 C25 19, 20 30, 30 35" fill="#FF6900" stroke="none"/>
+    
+    <!-- Text part -->
+    <text x="45" y="30" font-family="Arial" font-size="24" font-weight="bold" fill="#4D4D4F">ARCADIS</text>
+    
+    <!-- RiskLens Pro text -->
+    <text x="160" y="30" font-family="Arial" font-size="22" font-weight="bold" fill="#FF6900">RiskLens Pro</text>
+</svg>
